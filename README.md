@@ -22,6 +22,7 @@ A python script that generates a short video from an image using FFmpeg and Pill
    ```
    pip install pillow gtts
    ```
+   ```
    sudo apt install ffmpeg  
    ```
 
