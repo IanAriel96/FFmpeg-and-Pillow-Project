@@ -18,7 +18,7 @@ A python script that generates a short video from an image using FFmpeg and Pill
 - **FFmpeg** installed on your system
 
 ## Installation
-1. Install dependencies for linux:
+1. Install dependencies and ffmpeg for linux:
    ```
    pip install pillow gtts
    ```
@@ -30,7 +30,7 @@ A python script that generates a short video from an image using FFmpeg and Pill
 1. Place your image (`image.jpg`) and background music (`music.mp3`) in the project directory.
 2. Run the script:
    ```
-   python script.py
+   python3 FFmpeg.py
    ```
 3. Follow the prompts to:
    - Provide image and music paths (or press Enter to use default values)
